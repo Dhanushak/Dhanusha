@@ -1,5 +1,4 @@
-# Dhanusha
-Loan prediction in python
+# Loan prediction in python
 
 Variable-Description
 Loan_ID-Unique Loan ID
